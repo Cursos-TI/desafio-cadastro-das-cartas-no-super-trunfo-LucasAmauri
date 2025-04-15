@@ -22,5 +22,5 @@ Este projeto é uma implementação do jogo **Super Trunfo**, onde o jogador pod
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/super-trunfo.git
+git clone https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-LucasAmauri
 cd super-trunfo
